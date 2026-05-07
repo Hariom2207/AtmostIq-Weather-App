@@ -37,7 +37,9 @@ npm install
 npm run dev
 ```
 
-Open ( atmost-iq-weather-app.vercel.app ) in your browser.
+Open ## 🚀 Live Weather App
+
+👉 [Click here to open app](https://atmost-iq-weather-app.vercel.app) in your browser.
 
 > ⚠️ Allow location access when prompted for auto-detect. If denied, defaults to New Delhi.
 
